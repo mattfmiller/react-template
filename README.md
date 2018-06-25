@@ -1,8 +1,10 @@
+run `npm install`
+<hr>
 `apm install react@0.16.2`
 <br>
 `npm init`
 <br>
-`npm install react@15.5.4 react-dom@15.5.4 --save `
+`npm install react@15.5.4 react-dom@15.5.4 --save`
 <br>
 `npm install webpack@3.4.0 --save-dev`
 <br>
