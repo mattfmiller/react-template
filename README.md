@@ -15,7 +15,8 @@ A. As a user, I want to ...
 
 ## Setup/Installation Requirements
 * To view program locally, clone repository from https://github.com/mattfmiller/react-template
-* In console, navigate to root directory and run `apm install react@0.16.2` and `npm install` to install the following packages:<br>
+* In console, navigate to root directory and run `apm install react@0.16.2` (to add proper syntax highlights to JSX) and `npm install`
+* Commands used to make this template:<br>
   `npm init`
   <br>
   `npm install react@15.5.4 react-dom@15.5.4 --save`
