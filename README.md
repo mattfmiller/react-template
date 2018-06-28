@@ -30,7 +30,7 @@ run `npm install`
 <br>
 `eslint --init`
 <br>
-`eslint src/*.jsx src/**/**`
+`eslint src/*.jsx src/**/*.jsx`
 <br>
 `npm install eslint-loader --save-dev`
 <br>
@@ -41,4 +41,3 @@ run `npm install`
 `npm install url-loader@0.6.2 --sav-dev`
 <br>
 `npm install file-loader@1.1.6 --sav-dev`
-
