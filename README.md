@@ -1,6 +1,21 @@
-run `npm install`
-<hr>
-`apm install react@0.16.2`
+
+# React Template
+
+#### An app that allows users to ... (_This is an Epicodus exercise that is a work in progress_)
+
+#### By _**Matt Miller**_
+
+## Description
+
+This application will allow users to ...
+
+#### User Story
+
+A. As a user, I want to ...
+
+## Setup/Installation Requirements
+* To view program locally, clone repository from https://github.com/mattfmiller/react-template
+* In console, navigate to root directory and run `apm install react@0.16.2` and `npm install` to install the following packages:
 <br>
 `npm init`
 <br>
@@ -41,3 +56,26 @@ run `npm install`
 `npm install url-loader@0.6.2 --sav-dev`
 <br>
 `npm install file-loader@1.1.6 --sav-dev`
+
+* Run `npm run start` to build program
+* Navigate to localhost:8080/ in browser to interact with program
+
+## Known Bugs
+
+* N/A
+
+## Support and contact details
+
+For support, contact: matt.f.miller@live.com
+
+## Technologies Used
+
+* npm
+* CSS
+* React
+
+### License
+
+This software is licensed under the GPL license.
+
+Copyright © 2018 **Matt Miller**
