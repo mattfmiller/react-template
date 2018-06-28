@@ -30,6 +30,15 @@ run `npm install`
 <br>
 `eslint --init`
 <br>
-`eslint src/** src/**/**`
+`eslint src/*.jsx src/**/**`
 <br>
 `npm install eslint-loader --save-dev`
+<br>
+`npm install --save styled-jsx`
+<br>
+`npm install react-router-dom@4.0.0 --save`
+<br>
+`npm install url-loader@0.6.2 --sav-dev`
+<br>
+`npm install file-loader@1.1.6 --sav-dev`
+
