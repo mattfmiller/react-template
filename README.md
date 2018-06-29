@@ -1,7 +1,7 @@
 
 # React Template
 
-#### An app that allows users to ... (_This is an Epicodus exercise that is a work in progress_)
+#### An app that allows users to ... 
 
 #### By _**Matt Miller**_
 
@@ -15,8 +15,10 @@ A. As a user, I want to ...
 
 ## Setup/Installation Requirements
 * To view program locally, clone repository from https://github.com/mattfmiller/react-template
-* In console, navigate to root directory and run `apm install react@0.16.2` (to add proper syntax highlights to JSX) and `npm install`
-* Commands used to make this template:<br>
+* In console, navigate to root directory and run `rm -rf .git` to clear git commit history 
+* Run `apm install react@0.16.2` to add proper syntax highlights to JSX
+* Run `npm install` to install all packages and dependencies
+* _Commands used to make this template:_<br>
   `npm init`
   <br>
   `npm install react@15.5.4 react-dom@15.5.4 --save`
