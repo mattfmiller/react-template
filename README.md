@@ -1,7 +1,7 @@
 
 # React Template
 
-#### An app that allows users to ... 
+#### An app that allows users to ...
 
 #### By _**Matt Miller**_
 
@@ -15,7 +15,7 @@ A. As a user, I want to ...
 
 ## Setup/Installation Requirements
 * To view program locally, clone repository from https://github.com/mattfmiller/react-template
-* In console, navigate to root directory and run `rm -rf .git` to clear git commit history 
+* In console, navigate to root directory and run `rm -rf .git` to clear git commit history
 * Run `apm install react@0.16.2` to add proper syntax highlights to JSX
 * Run `npm install` to install all packages and dependencies
 * _Commands used to make this template:_<br>
@@ -58,6 +58,11 @@ A. As a user, I want to ...
   `npm install url-loader@0.6.2 --sav-dev`
   <br>
   `npm install file-loader@1.1.6 --sav-dev`
+  <br>
+  `npm install uuid@3.2.1`
+  <br>
+  `npm install moment@2.18.1`
+
 
 * Run `npm run start` to build program
 * Navigate to localhost:8080/ in browser to interact with program
