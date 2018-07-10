@@ -62,6 +62,12 @@ A. As a user, I want to ...
   `npm install uuid@3.2.1`
   <br>
   `npm install moment@2.18.1`
+  <br>
+  `npm install jest@20.0.4 --save-dev`
+  <br>
+  `npm install jest@20.0.4 -g`
+  <br>
+  `npm install babel-jest@20.0.3 --save-dev`
 
 
 * Run `npm run start` to build program
