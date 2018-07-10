@@ -68,6 +68,10 @@ A. As a user, I want to ...
   `npm install jest@20.0.4 -g`
   <br>
   `npm install babel-jest@20.0.3 --save-dev`
+  <br>
+  `npm install redux@3.7.2 --save`
+  <br>
+  `npm install react-redux@5.0.6 --save`
 
 
 * Run `npm run start` to build program
